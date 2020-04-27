@@ -1,1 +1,3 @@
 # DCTRGAN
+
+Deep neural networks can precisly reweight high-dimensional phase spaces by repurposing classifiers as reweighting functions.  This was recently demonstrated in the Deep neural networks using Classification for Tuning and Reweighting (DCTR, pronounced “doctor”), [arXiv:1907.08209](https://arxiv.org/abs/1907.08209).  The idea here is if we can combine the generative power of a GAN with the fine-tuning of a DCTR model to increase the overall precision.
